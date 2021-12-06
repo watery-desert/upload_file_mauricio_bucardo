@@ -1,14 +1,8 @@
 # upload_file_mauricio_bucardo
 
-Please give me star and share so I can get motivation to make more design challenge.
 
-<img src="assets/screen_recording.gif"  width="500"/>
+<img src="https://raw.githubusercontent.com/watery-desert/assets/main/upload_file_mauricio_bucardo/screen_recording.gif"  width="300"/>
 
 ## **Design Credit**
 
 [Upload File by Mauricio Bucardo](https://dribbble.com/shots/10066653-Upload-File)
-
-## Follow me on social media
-[Instagram](https://www.instagram.com/watery_desert)
-
-[Twitter](https://www.twitter.com/watery_desert)
